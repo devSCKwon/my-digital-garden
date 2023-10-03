@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-doc/dogs/","title":"A note about dogs","dgLinkPreview":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-doc/dogs/","title":"A note about dogs","noteIcon":"","created":"","updated":""}
 ---
 
 
