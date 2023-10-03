@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-doc/00-summry/","title":"00_Summry","tags":["정보보안관리규정","보안","세진보안","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-doc/00-summry/","title":"00_Summry","tags":["정보보안관리규정","보안","세진보안","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 
