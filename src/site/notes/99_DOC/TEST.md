@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-doc/test/","title":"TEST","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-doc/test/","title":"TEST","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 1. 등록 테스트 
