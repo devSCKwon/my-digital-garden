@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/01-general/","title":"제 1 장 총칙","tags":["정보보안관리규정","보안","세진보안"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/01-general/","title":"제 1 장 총칙","tags":["정보보안관리규정","보안"],"noteIcon":"","created":"","updated":""}
 ---
 
 ### 1. 정보보안 개요
