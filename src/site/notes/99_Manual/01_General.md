@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/99-manual/01-general/","title":"제 1 장 총칙","tags":["정보보안관리규정","보안","세진보안"],"noteIcon":"","created":"","updated":""}
 ---
 
-# 제 1 장 총칙
-
----
 ### 1. 정보보안 개요
 
 1. 목적
