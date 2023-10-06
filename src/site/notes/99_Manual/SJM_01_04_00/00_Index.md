@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/00-index/","title":"정보보안 관리규정","tags":["정보보안관리규정","보안","세진보안"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/00-index/","title":"정보보안 관리규정","tags":["정보보안관리규정","보안"],"noteIcon":"","created":"","updated":""}
 ---
 
 
