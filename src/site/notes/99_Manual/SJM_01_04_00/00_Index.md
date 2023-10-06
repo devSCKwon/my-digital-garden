@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/00-index/","title":"정보관리규정 목차","tags":["정보보안관리규정","보안"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/00-index/","title":"목차","tags":["정보보안관리규정","보안"],"noteIcon":"","created":"","updated":""}
 ---
-
 
 ### 제 1 장 총칙
 
