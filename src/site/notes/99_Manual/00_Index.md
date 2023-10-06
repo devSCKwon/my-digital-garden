@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/99-manual/00-index/","title":"00 개요","tags":["정보보안관리규정","보안","세진보안"],"noteIcon":"","created":"","updated":""}
 ---
 
-### [[99_Manual/01_General\|제 1 장 총칙 ]]
+### [[99_Manual/01_General\|제 1 장 총칙]]
+[[99_Manual/01_General\|제 1 장 총칙 ]]
 
 1. 정보보안 개요
 
