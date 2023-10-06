@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/0-index/","title":"정보보안 관리규정","tags":["규정","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/0-index/","title":"정보보안 관리규정","tags":["규정","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 # 세진 관련 규정 모음
