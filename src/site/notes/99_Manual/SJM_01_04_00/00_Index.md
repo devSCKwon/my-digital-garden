@@ -12,7 +12,7 @@
 2. [[99_Manual/SJM_01_04_00/02_Administrative#2. 보안서약서\|보안 서약서]]
 3. [[99_Manual/SJM_01_04_00/02_Administrative#3. 보안교육\|보안 교육]]
 4. [[99_Manual/SJM_01_04_00/02_Administrative#4. 퇴직자 관리\|퇴직자 관리]]
-5. 보안 위반자 관리
+5. [[99_Manual/SJM_01_04_00/02_Administrative#5. 보안 위반자 관리\|보안 위반자 관리]]
 6. 정보자산 분류
 7. 영업비밀관리기준
 8. 준거성
