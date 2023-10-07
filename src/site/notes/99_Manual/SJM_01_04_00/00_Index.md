@@ -15,8 +15,8 @@
 5. [[99_Manual/SJM_01_04_00/02_Administrative#5. 보안 위반자 관리\|보안 위반자 관리]]
 6. [[99_Manual/SJM_01_04_00/02_Administrative#6. 정보 자산 분류\|정보자산 분류]]
 7. [[99_Manual/SJM_01_04_00/02_Administrative#7. 영업비밀관리기준\|영업비밀관리기준]]
-8. 준거성
-9. 보안점검
+8. [[99_Manual/SJM_01_04_00/02_Administrative#8. 준거성\|준거성]]
+9. [[99_Manual/SJM_01_04_00/02_Administrative#9. 보안점검\|보안점검]]
 
 ### 제 3 장 물리적 보안
 
