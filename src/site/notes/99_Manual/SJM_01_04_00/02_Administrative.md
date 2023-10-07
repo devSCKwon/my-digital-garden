@@ -61,7 +61,7 @@
 		2. 매월 보안의 날 시행 후 팀(부서)내 보안현황, 문제점 등을 팀(부서)보안책임자에 보고하고, 지시에 따라 개선을 이행한다.  
 		3. 전사보안담당자가 소집하는 팀보안담당자 회의에 참석하여, 팀(부서) 입장을 대변하여 보안정책 결정에 참여하며, 정해진 보안정책을 팀 내 전파하는 역할을 수행한다.
 	7. 첨부
-		1. 2023년 세진 보안조직도![2023_OrganizationChart.png](/img/user/99_Manual/SJM_01_04_00/2023_OrganizationChart.png)
+		1. 2023년 세진 보안조직도![2023_OrganizationChart.png](/img/user/99_Manual/SJM_01_04_00/99_Attach/2023_OrganizationChart.png)
 
 ### 2. 보안서약서
 1. ##### 관리주체
