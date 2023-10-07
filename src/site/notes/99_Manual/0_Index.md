@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/0-index/","title":"세진 Digital Garden","tags":["규정","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/0-index/","title":"세진 Digital Garden","tags":["규정","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 # 세진 Digital Garden
