@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/03-facility/","title":"제 3 장 물리적 보안","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/03-facility/","title":"제 3 장 물리적 보안","tags":["정보보안관리규정","보안","물리적보안"],"noteIcon":"","created":"","updated":""}
 ---
 
 ### 1. 보호구역 설정
