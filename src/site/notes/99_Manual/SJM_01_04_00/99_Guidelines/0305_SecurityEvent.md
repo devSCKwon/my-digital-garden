@@ -71,10 +71,17 @@
 	6. 보안사고나 취약점에 대한 승인되지 않은 정보의 사외유출을 금지한다. 
 ### 5. 별첨
 1. 재해재난 장애대응매뉴얼
-
-
-
-
-
+	1. [매뉴얼 바로가기](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=1)
+	2. 보안 링크
+		1. 사내 보안 링크 https://works.do/53PNpXK
+2. 주요 구성현황 (매뉴얼내 문서 일원화 작업)
+	1.  IT 현황 리스트
+		1. [주요 IT 장비 리스트](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=22)
+		2. [서버/통신랙 리스트](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=25)
+		3. [시스템 구성도](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=26)
+	2. 네트워크 구성현황 (일원화 작업)
+		1. [전체네트워크 구성도](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=28)
+		2. [FC 구성도](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=29)
+		3. [생산망 구성](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_6.pdf#page=30)
 
 
