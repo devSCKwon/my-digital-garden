@@ -122,12 +122,13 @@
 		2. 로그 삭제에 관련된 승인 기록 대장을 유지해야 한다.
 6. ##### 별첨
 	1. DLP 시스템 매뉴얼 
-		1. [오피스키퍼 사용자 매뉴얼](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_5.pdf )
-		2. [[99_Manual/SJM_01_04_00/99_Guidelines/030401_DLP Guide\|오피스키퍼 세진 사용자 가이드]]
-		3. [오피스키퍼 사용자 교육자료](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_4.pdf )
+		1. 오피스키퍼 사용자 매뉴얼
+			1. [가이드 바로가기](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_5.pdf#page=1)
+		2. [[99_Manual/SJM_01_04_00/99_Guidelines/030401_DLP Guide\|오피스키퍼 세진 세부 사용자 가이드]]
+		3. 오피스키퍼 사용자 교육자료
+			1. [교육자료 바로가기](http://211.228.165.94/Manual/web/viewer.html?file=./SJM_01_04_00/22_3_4.pdf#page=1)
 	2. 백신 시스템 사용자 매뉴얼
-	3. NAC 시스템 사용자 매뉴얼 
-
+	3. NAC 시스템 사용자 매뉴얼
 
 
 
