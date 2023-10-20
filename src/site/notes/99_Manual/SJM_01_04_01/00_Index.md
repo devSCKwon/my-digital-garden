@@ -17,5 +17,5 @@
 2. [[99_Manual/SJM_01_04_01/0202_BasicSettings\|사용자 기본세팅]]
 ### 3장 세진 WORKPLACE 시나리오
 
-1. [[99_Manual/SJM_01_04_01/0301_Scenario\|0301_Scenario]]
+1. [[99_Manual/SJM_01_04_01/0301_Scenario\|세진 사용자 시나리오]]
 
