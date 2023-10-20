@@ -9,7 +9,8 @@
 
 
 
-	1. ![Pasted image 20231020092045.png](/img/user/Attach/Pasted%20image%2020231020092045.png) 
+1. ##### 메인화면
+	![Pasted image 20231020092045.png](/img/user/Attach/Pasted%20image%2020231020092045.png) 
 
 </div></div>
 
