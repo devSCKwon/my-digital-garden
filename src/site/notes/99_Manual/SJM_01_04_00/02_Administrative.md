@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/02-administrative/","title":"제 2 장 관리적 보안","tags":["정보보안관리규정","보안","관리적보안"],"noteIcon":"","created":"","updated":""}
+aliases: [02_Administrative]
+tags:
+  - 정보보안관리규정
+  - 보안
+  - 관리적보안
+date created: 금요일, 10월 6일 2023, 4:42:49 오후
+date modified: 월요일, 10월 9일 2023, 4:34:39 오후
+title: 제 2 장 관리적 보안
+dg-publish: true
+rev: 6
 ---
-
 ### 1. 보안조직
 1. ##### 보안조직 구성 및 관리주체
 	1. 전사보안조직의 구성 및 관리는 ==경영지원본부 총무팀==에서 주관한다.
