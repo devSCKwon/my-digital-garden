@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/04-technical/","title":"제 4 장 기술적 보안","tags":["정보보안관리규정","보안","기술적보안"],"noteIcon":"","created":"","updated":""}
+aliases: [04_Technical]
+tags: 정보보안관리규정,보안,기술적보안
+date created: 금요일, 10월 6일 2023, 4:42:49 오후
+date modified: 월요일, 10월 9일 2023, 4:34:46 오후
+title: 제 4 장 기술적 보안
+dg-publish: true
+rev: 6
 ---
-
 ### 1. 사용자보안지침
 1. ##### 목적
 	1. 업무상 목적으로 회사에서 지급한 업무용 단말기의 정보기술보호를 위한 요구사항을 제공함에 그 목적이 있다. 
