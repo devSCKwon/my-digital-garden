@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/00-index/","title":"목차","tags":["정보보안관리규정","보안"],"noteIcon":"","created":"","updated":""}
+aliases: [00_Index]
+tags:
+  - 정보보안관리규정
+  - 보안
+title: 목차
+date created: 화요일, 10월 3일 2023, 9:45:07 오후
+date modified: 월요일, 10월 9일 2023, 4:34:32 오후
+dg-publish: true
+rev: 6
 ---
-
 ### 제 1 장 총칙
 
 1. [[99_Manual/SJM_01_04_00/01_General#1. 정보보안 개요\|정보보안 개요]] 
