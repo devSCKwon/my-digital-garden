@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/0-index/","title":"세진 Digital Garden","tags":["규정","지침","gardenEntry"],"noteIcon":"","created":"","updated":""}
+aliases: 세진 Digital Garden
+tags: 규정,지침
+date created: 금요일, 10월 6일 2023, 3:32:57 오후
+date modified: 토요일, 10월 7일 2023, 5:19:34 오후
+dg-publish: true
+dg-home: true
+title: 세진 Digital Garden
 ---
-
 # 세진 Digital Garden
 
 ---
