@@ -1,18 +1,7 @@
 ---
-aliases:
-  - 030401_DLP Guide
-tags:
-  - 정보보안관리규정
-  - 보안
-  - 기술적보안
-  - 보안시스템운영
-  - DLP가이드
-date created: 일요일, 10월 8일 2023, 9:34:59 오전
-date modified: 월요일, 10월 9일 2023, 1:51:36 오후
-title: 22.3.4.1 DLP 시스템 사용자 가이드
-dg-publish: true
-rev: 1
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/99-guidelines/030401-dlp-guide/","title":"22.3.4.1 DLP 시스템 사용자 가이드","tags":["정보보안관리규정","보안","기술적보안","보안시스템운영","DLP가이드"],"noteIcon":"","created":"","updated":""}
 ---
+
 ### 1. DLP 시스템
 - 본 지침서는 DLP 시스템 사용자 매뉴얼의 주요 사항 인덱스 가이드라인으로 제공한다.
 1. ##### 매체 사용승인
