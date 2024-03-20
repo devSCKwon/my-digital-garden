@@ -1,17 +1,7 @@
 ---
-aliases: [0102_Mobile]
-tags:
-  - 정보보안관리규정
-  - 보안
-  - 관리적보안
-  - 기술적보안
-  - 모바일보안지침
-date created: 금요일, 10월 6일 2023, 4:42:49 오후
-date modified: 월요일, 10월 9일 2023, 3:57:20 오후
-title: 22.1.2 모바일보안지침
-dg-publish: true
-rev: 3
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/99-guidelines/0102-mobile/","title":"22.1.2 모바일보안지침","tags":["정보보안관리규정","보안","관리적보안","기술적보안","모바일보안지침"],"noteIcon":"","created":"","updated":""}
 ---
+
 
 ### 1. 개요
 1. ##### 목적
