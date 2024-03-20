@@ -1,15 +1,7 @@
 ---
-aliases: [06_Guidelines]
-tags:
-  - 정보보안관리규정
-  - 보안
-  - 관련지침
-date created: 금요일, 10월 6일 2023, 4:42:49 오후
-date modified: 월요일, 10월 9일 2023, 4:38430:54 오후
-title: 제 6 장 관련지침
-dg-publish: true
-rev: 6
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/06-guidelines/","title":"제 6 장 관련지침","tags":["정보보안관리규정","보안","관련지침"],"noteIcon":"","created":"","updated":""}
 ---
+
 ### 1. 관리영역
 1. [[99_Manual/SJM_01_04_00/99_Guidelines/0101_Personal\|개인정보보호지침]] 
 2. ~~모바일보안지침~~
