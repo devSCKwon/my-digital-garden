@@ -8,7 +8,7 @@
 
 ### 제 2 장 관리적 보안
 
-1.  [[99_Manual/SJM_01_04_00/02_Administrative#1.보안조직\|보안 조직]]
+1. [[99_Manual/SJM_01_04_00/02_Administrative#1.보안조직\|보안 조직]]
 2. [[99_Manual/SJM_01_04_00/02_Administrative#2. 보안서약서\|보안 서약서]]
 3. [[99_Manual/SJM_01_04_00/02_Administrative#3. 보안교육\|보안 교육]]
 4. [[99_Manual/SJM_01_04_00/02_Administrative#4. 퇴직자 관리\|퇴직자 관리]]
