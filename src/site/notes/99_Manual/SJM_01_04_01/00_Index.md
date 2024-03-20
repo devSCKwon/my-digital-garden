@@ -8,7 +8,7 @@
 1. [[99_Manual/SJM_01_04_01/0101_Home\|홈(Home)]]
 2. [[99_Manual/SJM_01_04_01/0102_Approval\|결재]]
 3. [[99_Manual/SJM_01_04_01/0103_MySpace\|내 공간]]
-4. ~~0104_문서서식~~
+4. [[99_Manual/SJM_01_04_01/0104_Document\|문서서식]]
 5. [[99_Manual/SJM_01_04_01/0105_ERP\|ERP 업무 연계]]
 
 ### 2장 세진 WORKPLACE 세팅 가이드
