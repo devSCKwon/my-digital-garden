@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-01/0104-document/","title":"1.4 문서서식","tags":["workplace","그룹웨어"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-01/0104-document/","title":"1.4 문서서식","tags":["workplace","그룹웨어","문서서식"],"noteIcon":"","created":"","updated":""}
 ---
 
 ### 0. 사용자 시나리오(문서 서식)
