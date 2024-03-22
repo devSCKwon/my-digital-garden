@@ -1,16 +1,7 @@
 ---
-aliases: [0101_Personal]
-tags:
-  - 정보보안관리규정
-  - 보안
-  - 관리적보안
-  - 개인정보보호지침
-date created: 금요일, 10월 6일 2023, 4:42:49 오후
-date modified: 월요일, 10월 9일 2023, 3:08:03 오후
-title: 22.1.1 개인정보보호지침
-dg-publish: true
-rev: 2
+{"dg-publish":true,"permalink":"/99-manual/sjm-01-04-00/99-guidelines/0101-personal/","title":"22.1.1 개인정보보호지침","tags":["정보보안관리규정","보안","관리적보안","개인정보보호지침"],"noteIcon":"","created":"","updated":""}
 ---
+
 
 ### 1. 개요
 1. ##### 목적
