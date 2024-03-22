@@ -7,8 +7,8 @@
 2. [[99_Manual/SJM_01_04_00/99_Guidelines/0301_User#\|사용자보안지침]]
 ### 2. 물리영역
 1.  [[99_Manual/SJM_01_04_00/99_Guidelines/0201_Facility\|시설보호 및 출입통제지침]]
-3. [[99_Manual/SJM_01_04_00/99_Guidelines/0202_Cctv\|CCTV운영 및 시설감시지침]]
-4. [[99_Manual/SJM_01_04_00/99_Guidelines/0203_Export\|정보자산 반출입 통제지침]]
+2. [[99_Manual/SJM_01_04_00/99_Guidelines/0202_Cctv\|CCTV운영 및 시설감시지침]]
+3. [[99_Manual/SJM_01_04_00/99_Guidelines/0203_Export\|정보자산 반출입 통제지침]]
 ### 3. 기술영역
 1. [[99_Manual/SJM_01_04_00/99_Guidelines/0102_Mobile\|모바일보안지침]]
 2. [[99_Manual/SJM_01_04_00/99_Guidelines/0302_Network\|네트워크보안지침]]
