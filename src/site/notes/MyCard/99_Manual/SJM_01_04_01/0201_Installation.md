@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-card/99-manual/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.212+09:00","updated":"2024-12-19T16:40:41.452+09:00"}
+{"dg-publish":true,"permalink":"/my-card/99-manual/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.212+09:00","updated":"2024-12-19T17:15:31.326+09:00"}
 ---
 
 ### 세진 워크플레이스 접속 및 설치 안내
@@ -7,7 +7,7 @@
 1. ##### PC 웹
 	1. 로그인 화면
 		1. 세진 네이버웍스 로그인 화면
-			1. 세진워크플레이스 시스템 변경에 따라 초기화면이 변경됩니다.
+			1. 세진 워크플레이스 시스템 도입에 따라 초기화면이 변경됩니다.
 			2. 변경 전
 				![Pasted image 20231019133336.png|300](/img/user/MyCard/Attach/Pasted%20image%2020231019133336.png)
 			3. 변경 후
