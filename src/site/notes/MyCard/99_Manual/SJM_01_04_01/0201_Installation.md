@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-card/99-manual/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.212+09:00","updated":"2024-12-19T15:57:49.085+09:00"}
+{"dg-publish":true,"permalink":"/my-card/99-manual/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.212+09:00","updated":"2024-12-19T16:36:08.258+09:00"}
 ---
 
 ### 세진 워크플레이스 접속 및 설치 안내
@@ -7,7 +7,7 @@
 1. ##### PC 웹
 	1. 로그인 화면
 		1. 세진 네이버웍스 로그인 화면
-			1. 세진워크플레이스 시스템 변경에 따라 초기화면이 변경됩니다. 
+			1. 세진워크플레이스 시스템 변경에 따라 초기화면이 변경됩니다.
 			2. 변경 전
 				![Pasted image 20231019133336.png|300](/img/user/MyCard/Attach/Pasted%20image%2020231019133336.png)
 			3. 변경 후
@@ -36,5 +36,5 @@
 			 ![IMG_9136.png|300](/img/user/MyCard/Attach/IMG_9136.png)
 		5. 로그인 화면 활성화
 			1. 아이디는 기존 세진 네이버웍스와 동일 (메일계정)
-			2. 패스워드는 관리자에게 안내받은 패스워드 입력 후 변경 후 접속
+			2. 패스워드는 관리자에게 안내받은 패스워드 입력 후 반드시 변경 후 접속
 			 ![KakaoTalk_20231019_160850952.jpg|300](/img/user/MyCard/Attach/KakaoTalk_20231019_160850952.jpg)
