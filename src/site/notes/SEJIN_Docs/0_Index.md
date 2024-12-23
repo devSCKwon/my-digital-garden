@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/0-index/","title":"세진 Digital Garden","tags":["규정","지침","gardenEntry"],"noteIcon":"","created":"2024-12-18T11:17:05.026+09:00","updated":"2024-12-23T08:47:40.731+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/0-index/","title":"세진 Digital Garden","tags":["규정","지침","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2024-12-18T11:17:05.026+09:00","updated":"2024-12-23T08:47:40.731+09:00"}
 ---
 
 # 세진 Digital Garden
