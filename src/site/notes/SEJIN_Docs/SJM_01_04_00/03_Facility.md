@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/03-facility/","title":"제 3 장 물리적 보안","tags":["정보보안관리규정","보안","물리적보안"],"noteIcon":"","created":"2024-12-18T11:17:05.030+09:00","updated":"2024-12-23T09:00:19.086+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/03-facility/","title":"제 3 장 물리적 보안","tags":["정보보안관리규정","보안","물리적보안"],"noteIcon":"","created":"2025-04-10T08:14:47.929+09:00","updated":"2024-12-23T09:00:19.086+09:00"}
 ---
 
 ### 1. 보호구역 설정

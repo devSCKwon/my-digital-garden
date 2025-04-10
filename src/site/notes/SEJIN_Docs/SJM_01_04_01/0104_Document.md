@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0104-document/","title":"1.4 문서서식","tags":["workplace","그룹웨어","문서서식"],"noteIcon":"","created":"2024-12-18T11:17:05.209+09:00","updated":"2024-12-19T17:17:36.100+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0104-document/","title":"1.4 문서서식","tags":["workplace","그룹웨어","문서서식"],"noteIcon":"","created":"2025-04-10T08:14:48.008+09:00","updated":"2025-04-03T18:12:48.810+09:00"}
 ---
 
 ### 0. 사용자 시나리오(문서 서식)

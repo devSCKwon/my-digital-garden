@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0101-personal/","title":"22.1.1 개인정보보호지침","tags":["정보보안관리규정","보안","관리적보안","개인정보보호지침"],"noteIcon":"","created":"2024-12-18T11:17:05.178+09:00","updated":"2024-12-23T08:49:01.886+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0101-personal/","title":"22.1.1 개인정보보호지침","tags":["정보보안관리규정","보안","관리적보안","개인정보보호지침"],"noteIcon":"","created":"2025-04-10T08:14:47.977+09:00","updated":"2024-12-23T08:49:01.886+09:00"}
 ---
 
 

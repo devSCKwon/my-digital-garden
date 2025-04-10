@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0102-approval/","title":"1.2 결재","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.206+09:00","updated":"2024-12-19T17:17:34.696+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0102-approval/","title":"1.2 결재","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2025-04-10T08:14:48.008+09:00","updated":"2025-04-03T18:13:21.848+09:00"}
 ---
 
 ### 0. 사용자 시나리오(결재)

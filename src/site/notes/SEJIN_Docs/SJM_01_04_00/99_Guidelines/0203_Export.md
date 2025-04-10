@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0203-export/","title":"22.2.3 정보자산 반출/입 통제지침","tags":["정보보안관리규정","보안","물리적보안","정보자산반출입통제지침"],"noteIcon":"","created":"2024-12-18T11:17:05.186+09:00","updated":"2024-12-23T08:49:01.893+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0203-export/","title":"22.2.3 정보자산 반출/입 통제지침","tags":["정보보안관리규정","보안","물리적보안","정보자산반출입통제지침"],"noteIcon":"","created":"2025-04-10T08:14:47.977+09:00","updated":"2024-12-23T08:49:01.893+09:00"}
 ---
 
 ### 1. 목적

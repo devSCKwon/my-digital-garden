@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0102-mobile/","title":"22.1.2 모바일보안지침","tags":["정보보안관리규정","보안","관리적보안","기술적보안","모바일보안지침"],"noteIcon":"","created":"2024-12-18T11:17:05.180+09:00","updated":"2024-12-23T08:49:01.888+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0102-mobile/","title":"22.1.2 모바일보안지침","tags":["정보보안관리규정","보안","관리적보안","기술적보안","모바일보안지침"],"noteIcon":"","created":"2025-04-10T08:14:47.977+09:00","updated":"2024-12-23T08:49:01.888+09:00"}
 ---
 
 

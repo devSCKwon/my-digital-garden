@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0301-scenario/","title":"3.1 사용자 시나리오","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.215+09:00","updated":"2024-12-19T14:26:26.568+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0301-scenario/","title":"3.1 사용자 시나리오","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2025-04-10T08:14:48.024+09:00","updated":"2025-04-10T14:35:27.339+09:00"}
 ---
 
 ### 1. 세진 워크플레이스 사용자 시나리오

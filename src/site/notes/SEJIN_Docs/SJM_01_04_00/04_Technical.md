@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/04-technical/","title":"제 4 장 기술적 보안","tags":["정보보안관리규정","보안","기술적보안"],"noteIcon":"","created":"2024-12-18T11:17:05.030+09:00","updated":"2024-12-23T09:15:58.776+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/04-technical/","title":"제 4 장 기술적 보안","tags":["정보보안관리규정","보안","기술적보안"],"noteIcon":"","created":"2025-04-10T08:14:47.929+09:00","updated":"2024-12-23T09:15:58.776+09:00"}
 ---
 
 ### 1. 사용자보안지침

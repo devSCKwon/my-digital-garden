@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/02-administrative/","title":"제 2 장 관리적 보안","tags":["정보보안관리규정","보안","관리적보안"],"noteIcon":"","created":"2024-12-18T11:17:05.029+09:00","updated":"2024-12-23T13:41:11.856+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/02-administrative/","title":"제 2 장 관리적 보안","tags":["정보보안관리규정","보안","관리적보안"],"noteIcon":"","created":"2025-04-10T08:14:47.929+09:00","updated":"2024-12-23T13:41:11.856+09:00"}
 ---
 
 ### 1. 보안조직

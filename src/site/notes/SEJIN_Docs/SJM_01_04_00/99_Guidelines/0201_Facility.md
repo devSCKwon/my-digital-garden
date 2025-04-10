@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0201-facility/","title":"22.2.1 시설보호및출입통제지침","tags":["정보보안관리규정","보안","물리적보안","시설보호및출입통제지침"],"noteIcon":"","created":"2024-12-18T11:17:05.181+09:00","updated":"2024-12-23T08:49:01.890+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0201-facility/","title":"22.2.1 시설보호및출입통제지침","tags":["정보보안관리규정","보안","물리적보안","시설보호및출입통제지침"],"noteIcon":"","created":"2025-04-10T08:14:47.977+09:00","updated":"2024-12-23T08:49:01.890+09:00"}
 ---
 
 

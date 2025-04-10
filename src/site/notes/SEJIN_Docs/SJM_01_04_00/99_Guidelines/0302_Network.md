@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0302-network/","title":"22.3.2 네트워크보안지침","tags":["정보보안관리규정","보안","기술적보안","네트워크보안"],"noteIcon":"","created":"2024-12-18T11:17:05.190+09:00","updated":"2024-12-23T08:49:01.898+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/0302-network/","title":"22.3.2 네트워크보안지침","tags":["정보보안관리규정","보안","기술적보안","네트워크보안"],"noteIcon":"","created":"2025-04-10T08:14:47.992+09:00","updated":"2024-12-23T08:49:01.898+09:00"}
 ---
 
 ### 1. 개요

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/05-attach/","title":"제 5 장 별첨","tags":["정보보안관리규정","보안","별첨"],"noteIcon":"","created":"2024-12-18T11:17:05.031+09:00","updated":"2024-12-19T17:30:30.106+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/05-attach/","title":"제 5 장 별첨","tags":["정보보안관리규정","보안","별첨"],"noteIcon":"","created":"2025-04-10T08:14:47.929+09:00","updated":"2024-12-19T17:30:30.106+09:00"}
 ---
 
 ### 1. 별첨

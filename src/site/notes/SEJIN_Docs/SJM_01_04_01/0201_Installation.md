@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.212+09:00","updated":"2024-12-23T08:40:25.639+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/0201-installation/","title":"2.1 최초접속 설치안내","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2025-04-10T08:14:48.024+09:00","updated":"2024-12-23T08:40:25.639+09:00"}
 ---
 
 ### 세진 워크플레이스 접속 및 설치 안내

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/06-guidelines/","title":"제 6 장 관련지침","tags":["정보보안관리규정","보안","관련지침"],"noteIcon":"","created":"2024-12-18T11:17:05.033+09:00","updated":"2024-12-19T17:29:42.114+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/06-guidelines/","title":"제 6 장 관련지침","tags":["정보보안관리규정","보안","관련지침"],"noteIcon":"","created":"2025-04-10T08:14:47.945+09:00","updated":"2024-12-19T17:29:42.114+09:00"}
 ---
 
 ### 1. 관리영역

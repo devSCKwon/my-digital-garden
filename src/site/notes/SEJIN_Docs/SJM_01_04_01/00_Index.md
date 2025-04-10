@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/00-index/","title":"목차","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2024-12-18T11:17:05.203+09:00","updated":"2024-12-23T08:48:14.645+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-01/00-index/","title":"목차","tags":["workplace","그룹웨어"],"noteIcon":"","created":"2025-04-10T08:14:48.008+09:00","updated":"2024-12-23T08:48:14.645+09:00"}
 ---
 
 

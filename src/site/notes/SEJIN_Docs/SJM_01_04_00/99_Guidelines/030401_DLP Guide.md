@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/030401-dlp-guide/","title":"22.3.4.1 DLP 시스템 사용자 가이드","tags":["정보보안관리규정","보안","기술적보안","보안시스템운영","DLP가이드"],"noteIcon":"","created":"2024-12-18T11:17:05.193+09:00","updated":"2024-12-23T08:49:01.897+09:00"}
+{"dg-publish":true,"permalink":"/sejin-docs/sjm-01-04-00/99-guidelines/030401-dlp-guide/","title":"22.3.4.1 DLP 시스템 사용자 가이드","tags":["정보보안관리규정","보안","기술적보안","보안시스템운영","DLP가이드"],"noteIcon":"","created":"2025-04-10T08:14:47.992+09:00","updated":"2024-12-23T08:49:01.897+09:00"}
 ---
 
 ### 1. DLP 시스템
